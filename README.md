@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 
 <h2>Languages</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,graphql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java)](https://skillicons.dev)
 
 <h2>Frameworks</h2>
   
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,spring,hibernate)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,spring,hibernate,graphql,express)](https://skillicons.dev)
 
 <h2>Databases</h2>
   
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 <h2>Tools</h2>
  
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,docker,jenkins,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,docker,jenkins,postman,nginx)](https://skillicons.dev)
 
 <h2>IDE</h2>
  
